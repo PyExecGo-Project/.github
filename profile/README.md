@@ -17,11 +17,10 @@ This project avoids the common issues with converting or compiling Python script
 3. **Run Anywhere**: Simply distribute the Go executable along with the portable Python files and the scripts that need to be executed in a folder, allowing hassle-free execution on any machine.
 
 ## 📝 Build Your Own Project
-> **Note:**
-> We don't have a setup tutorial yet, but feel free to check out our [template repository](https://github.com/PyExecGo-Project/template). It's a simple structure, so you should be able to understand it quickly. If you're unfamiliar with Python or Go, we recommend waiting for further instructions or downloading one of our pre-built Python scripts/programs.
+We provide a [template repository](https://github.com/PyExecGo-Project/template) with a detailed README that guides you through the setup process. The steps are already laid out for you, but I’m working on an automatic builder to make everything even easier! If you're unfamiliar with Python or Go, we recommend waiting for further instructions or downloading one of our pre-built Python scripts/programs.
 
 ## 📦 Pre-built Scripts/Programs
-Take a look at our available repositories for pre-built scripts/programs: [PyExecGo Project Repositories](https://github.com/orgs/PyExecGo-Project/repositories)
+Take a look at our available repositories for pre-built scripts/programs: [PyExecGo Project Repositories](https://github.com/orgs/PyExecGo-Project/repositories) (COMING SOON!)
 
 ## 🤝 Contributing
 We welcome contributions! Feel free to open issues or submit pull requests to enhance PyExecGo.
