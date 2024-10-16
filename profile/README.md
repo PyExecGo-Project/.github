@@ -21,7 +21,8 @@ Another important point is that the original code from developers remains open-s
 ## 📝 Build Your Own Project
 
 ### Automatic Builder
-We also offer an [automatic builder](https://github.com/PyExecGo-Project/PyExecGo-Builder) that streamlines the setup process. If you're unfamiliar with Python or Go. You don't even need to have Go installed! [Latest Release](https://github.com/PyExecGo-Project/PyExecGo-Builder/releases) -- We highly recommend using the builder or downloading one of our pre-built Python scripts/programs for a hassle-free experience.
+
+We provide an [automatic builder](https://github.com/PyExecGo-Project/PyExecGo-Builder) designed to simplify the setup process. No experience with Go? No problem—you don’t even need to have Go installed! Check out our [Latest Release](https://github.com/PyExecGo-Project/PyExecGo-Builder/releases). We highly recommend using the builder or downloading one of our pre-built Python scripts/programs for a seamless experience.
 
 ### Template Repository
 We provide a [template repository](https://github.com/PyExecGo-Project/Template-Windows) that includes a detailed README to guide you through the setup process. The steps are clearly outlined, making it easy for you to get started.
