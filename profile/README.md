@@ -4,6 +4,8 @@
 
 This project avoids the common issues with converting or compiling Python scripts into executables, such as **triggering antivirus software**, which can cause users to be wary and potentially lead to losing customers. By keeping the Python script intact and using a minimal Go executable, PyExecGo minimizes these risks and provides a safer, more user-friendly solution.
 
+Another important point is that the original code from developers remains open-source when using PyExecGo. This transparency ensures that you can trust the code, as there’s no risk of tampering. In contrast, using tools like Py2Exe, which "compiles" the code, makes it impossible for you to verify what’s been changed or added.
+
 ## 🚀 Features
 - **No Python installation required**: PyExecGo includes a portable version of Python.
 - **Avoid antivirus flags**: Compiling Python scripts often triggers antivirus alerts, making users hesitant to run your software. PyExecGo helps you bypass this issue.
