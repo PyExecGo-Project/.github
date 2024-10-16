@@ -1,6 +1,6 @@
 # 🐍 PyExecGo Project
 
-**PyExecGo** is a lightweight solution for running Python scripts on any system **without requiring Python** to be installed. It packages a portable Python version and uses a simple, small, and open-source Go executable to run your Python scripts on the target machine.
+**PyExecGo** is a small, simple and lightweight solution for running Python scripts on any system **without requiring Python** to be installed. It packages a portable Python version and open-source Go executable to run your Python scripts on the target machine.
 
 This project avoids the common issues with converting or compiling Python scripts into executables, such as **triggering antivirus software**, which can cause users to be wary and potentially lead to losing customers. By keeping the Python script intact and using a minimal Go executable, PyExecGo minimizes these risks and provides a safer, more user-friendly solution.
 
@@ -19,7 +19,12 @@ Another important point is that the original code from developers remains open-s
 3. **Run Anywhere**: Simply distribute the Go executable along with the portable Python files and the scripts that need to be executed in a folder, allowing hassle-free execution on any machine.
 
 ## 📝 Build Your Own Project
-We provide a [template repository](https://github.com/PyExecGo-Project/template) with a detailed README that guides you through the setup process. The steps are already laid out for you, but I’m working on an automatic builder to make everything even easier! If you're unfamiliar with Python or Go, we recommend waiting for further instructions or downloading one of our pre-built Python scripts/programs.
+
+### Automatic Builder
+We also offer an [automatic builder](https://github.com/PyExecGo-Project/PyExecGo-Builder) that streamlines the setup process. If you're unfamiliar with Python or Go. You don't even need to have Go installed! [Latest Release](https://github.com/PyExecGo-Project/PyExecGo-Builder/releases) -- We highly recommend using the builder or downloading one of our pre-built Python scripts/programs for a hassle-free experience.
+
+### Template Repository
+We provide a [template repository](https://github.com/PyExecGo-Project/Template-Windows) that includes a detailed README to guide you through the setup process. The steps are clearly outlined, making it easy for you to get started.
 
 ## 📦 Pre-built Scripts/Programs
 Take a look at our available repositories for pre-built scripts/programs: [PyExecGo Project Repositories](https://github.com/orgs/PyExecGo-Project/repositories) (COMING SOON!)
